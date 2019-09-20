@@ -1,0 +1,8 @@
+c:\users\it\documents\visual studio 2010\Projects\Copy Steps (Article And UID)\Copy Steps (Article And UID)\bin\Copy Steps (Article And UID).dll
+c:\users\it\documents\visual studio 2010\Projects\Copy Steps (Article And UID)\Copy Steps (Article And UID)\bin\Copy Steps (Article And UID).pdb
+c:\users\it\documents\visual studio 2010\Projects\Copy Steps (Article And UID)\Copy Steps (Article And UID)\obj\Debug\Copy Steps (Article And UID).dll
+c:\users\it\documents\visual studio 2010\Projects\Copy Steps (Article And UID)\Copy Steps (Article And UID)\obj\Debug\Copy Steps (Article And UID).pdb
+D:\CSK\Copy Steps (Article And UID)\Copy Steps (Article And UID)\bin\Copy Steps (Article And UID).dll
+D:\CSK\Copy Steps (Article And UID)\Copy Steps (Article And UID)\bin\Copy Steps (Article And UID).pdb
+D:\CSK\Copy Steps (Article And UID)\Copy Steps (Article And UID)\obj\Debug\Copy Steps (Article And UID).dll
+D:\CSK\Copy Steps (Article And UID)\Copy Steps (Article And UID)\obj\Debug\Copy Steps (Article And UID).pdb
